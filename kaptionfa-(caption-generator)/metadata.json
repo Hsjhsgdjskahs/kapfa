@@ -1,0 +1,7 @@
+{
+  "name": "KaptionFa (Caption Generator)",
+  "description": "An AI-powered application that generates creative captions, images, and videos. Supports Persian and English.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
